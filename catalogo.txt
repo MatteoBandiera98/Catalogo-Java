@@ -1,0 +1,14 @@
+Libro|978-0544003415|Il Signore degli Anelli|1954|1178|J.R.R. Tolkien|Fantasy
+Rivista|978-0977616800|National Geographic|1888|160|MENSILE
+Rivista|978-0744013066|Time|1923|112|SETTIMANALE
+Rivista|978-0123456789|Science|1880|90|MENSILE
+Rivista|978-0987654321|The Economist|1843|96|SETTIMANALE
+Rivista|978-1234567890|Nature|1869|88|MENSILE
+Rivista|978-1357924680|Sports Illustrated|1954|72|SETTIMANALE
+Libro|978-1451673319|To Kill a Mockingbird|1960|281|Harper Lee|Romanzo
+Libro|978-0140286800|The Catcher in the Rye|1949|277|J.D. Salinger|Romanzo
+Libro|978-0061120084|Pride and Prejudice|1813|279|Jane Austen|Romanzo
+Libro|978-0743273565|The Great Gatsby|1925|180|F. Scott Fitzgerald|Romanzo
+Libro|978-1416524304|The Da Vinci Code|2003|454|Dan Brown|Thriller
+Libro|978-0142424179|The Hunger Games|2008|374|Suzanne Collins|Fantascienza
+Libro|978-0544003415|Il Signore degli Anelli e le Due torri |1958|1348|J.R.R. Tolkien|Fantasy
